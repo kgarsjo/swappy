@@ -20,6 +20,9 @@ You will need:
 python save_folder_swappy_driver.py <folder-to-partition> <partition namespace>
 ```
 
+## How can I quickly use Swappy via Steam?
+Check out the [Steam quick-use guide](steam_quick_setup.md).
+
 ## How does it work?
 Let's take **The Elder Scrolls V: Skyrim** as an example. It has one save folder, `path/to/skyrim/saves`, and no in-game means of separating saves for multiple players.
 
