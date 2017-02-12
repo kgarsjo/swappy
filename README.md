@@ -9,6 +9,12 @@ My wife and I both play PC games. However, some of the games we play do not prov
 
 With swappy, we can swap our saves in and out of the save-folder bucket, effectively creating save profiles. This is done by describing namespaces (git branches), and persisting saves to those namespaces when switching.
 
+## Installation
+You will need:
+  - `git v2.x`
+  - `python v2.x`
+  - A clone or download of this repo
+
 ## Usage
 ```bash
 python save_folder_swappy_driver.py <folder-to-partition> <partition namespace>
